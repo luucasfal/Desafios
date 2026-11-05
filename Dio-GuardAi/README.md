@@ -4,7 +4,7 @@ Objetivo: cria um GuardAi, um agente focado em Cybersegurança
 
 Utilizei o Bionic como harness e o Gemma 4 12b QAT como modelo de linguagem.
 
-[alt text](image.png)
+![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 
